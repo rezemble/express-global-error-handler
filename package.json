@@ -1,0 +1,10 @@
+{
+  "name": "express-global-error-handler",
+  "version": "1.0.0",
+  "description": "Handle all errors globally in express (async + synchronous)",
+  "main": "index.js",
+  "repository": "https://github.com/rezemble/express-global-error-handler",
+  "author": "Lix Luthor",
+  "license": "MIT",
+  "private": false
+}
